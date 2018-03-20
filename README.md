@@ -35,6 +35,6 @@ Qt5SerialPort.dll
 Qt5Widgets.dll
 
 here is the result, we saw xiaolaba as dummy item in menu area, a sign for our test run, ok, that is all.
-![alt text](Attiny13_reset_Termnial.JPG)
+![alt text](xiaolaba_Qt_build_ok.JPG)
 
 
