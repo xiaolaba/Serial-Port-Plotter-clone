@@ -12,7 +12,7 @@ the online installer named as somehting like this when download is completed, qt
 
 run installer, select & install [ Qt Creator 4.5.2 ], install [ mingw530_32 ] as well, for Win10 OS, perhaps 2 to 3 hours for the installation.    
 
-compiling, error & note :
+compiling, error & note :  
 warning message should be with escape charecter or something, edit the file myapp.rc
 
 change from:  (one slashes only)  
