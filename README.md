@@ -15,10 +15,10 @@ run installer, select & install [ Qt Creator 4.5.2 ], install [ mingw530_32 ] as
 compiling, error & note :
 warning message should be with escape charecter or something, edit the file myapp.rc
 
-change from:  
+change from:  (one slashes only)
 IDI_ICON1               ICON    DISCARDABLE     "Icons\exe_icon.ico"  
 
-change to:  
+change to:  (used to be 2 slashes)
 IDI_ICON1               ICON    DISCARDABLE     "Icons\\\\exe_icon.ico"  
 
 
