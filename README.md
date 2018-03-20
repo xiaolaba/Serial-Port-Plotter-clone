@@ -4,6 +4,8 @@ try and uses Qt5 for the build test
 The source files and project clone from https://os.mbed.com/users/borislav/notebook/serial-port-plotter/  
 as you want to build your own, go and get a copy;  
 
+<a href="http://www.google.com" target="blank">google</a>
+
 tools:  
 goto Qt website, donwload open source verison for compiling
 i.e. https://www.qt.io/download-qt-installer?hsCtaTracking=9f6a2170-a938-42df-a8e2-a9f0b1d6cdce%7C6cb0de4f-9bb5-4778-ab02-bfb62735f3e5  
