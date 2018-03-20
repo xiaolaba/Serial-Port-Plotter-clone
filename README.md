@@ -19,7 +19,7 @@ change from:
 IDI_ICON1               ICON    DISCARDABLE     "Icons\exe_icon.ico"  
 
 change to:  
-IDI_ICON1               ICON    DISCARDABLE     "Icons\\exe_icon.ico"  
+IDI_ICON1               ICON    DISCARDABLE     "Icons\\\\exe_icon.ico"  
 
 
 try and edit mainindow.ui as well, add something to the ui and see if it works.  
