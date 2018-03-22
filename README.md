@@ -45,3 +45,8 @@ here is the result, we saw xiaolaba as dummy item in menu area, a sign for our t
 ![alt text](xiaolaba_Qt_build_ok.JPG)
 
 
+issue for Qt and computer screen size  
+14" screen is too much over crowded, no easy and always mis-adjusted.
+
+27" screen is overall much better.
+
