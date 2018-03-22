@@ -31,7 +31,7 @@ The result, yes, compile done and run, file size is about 622KB, my result,
 
 C:\your path\serialportplotter\build-SerialPortPlotter-Desktop_Qt_5_10_1_MinGW_32bit-Release\SerialPortPlotter.exe  
 
-build & release, goto C:\Qt\5.10.1\mingw53_32\bin, copy those following dll to project folder with SerialPortPlotter.exe together, this batch file will be easy the job ![alt text](copy_dll.bat)  
+build & release, goto C:\Qt\5.10.1\mingw53_32\bin, copy those following dll to project folder with SerialPortPlotter.exe together, this batch file will be easy the job other than manually everytime. ![copy_dll.bat](copy_dll.bat)  
 libgcc_s_dw2-1.dll  
 libstdc++-6.dll  
 libwinpthread-1.dll  
