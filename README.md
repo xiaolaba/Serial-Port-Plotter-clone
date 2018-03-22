@@ -3,8 +3,8 @@ try and uses Qt5 for the build test
 
 The source files and project clone from <a href="https://os.mbed.com/users/borislav/notebook/serial-port-plotter/" target="blank">https://os.mbed.com/users/borislav/notebook/serial-port-plotter/  </a>  
 as you want to build your own, go and get a copy;  
-look at the page bottom carefully, https://os.mbed.com/media/uploads/borislav/serialportplotter.zip
-or local copy here ![alt text](serialportplotter.zip)
+look at the page bottom carefully, https://os.mbed.com/media/uploads/borislav/serialportplotter.zip  
+or local copy here ![serialportplotter.zip](serialportplotter.zip)
 
 <a href="http://www.google.com" target="blank">google</a>
 
