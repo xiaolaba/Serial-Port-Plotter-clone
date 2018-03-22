@@ -52,7 +52,9 @@ issue for Qt and computer screen size
   
   
 23" screen is overall much better.  
-![alt text](Qt_build_23_inch_screen_ok.JPG)
-
-
+![alt text](Qt_build_23_inch_screen_ok.JPG)  
+  
+  
+  
+Try to add something useful, perhaps a text output area for serial data or hex dump.
 ![xiaolaba_Qt_build_ok_add_TextEdit.JPG](xiaolaba_Qt_build_ok_add_TextEdit.JPG)
