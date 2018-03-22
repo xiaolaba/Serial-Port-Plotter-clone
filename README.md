@@ -6,7 +6,7 @@ as you want to build your own, go and get a copy;
 look at the page bottom carefully, https://os.mbed.com/media/uploads/borislav/serialportplotter.zip  
 or local copy here ![serialportplotter.zip](serialportplotter.zip)
 
-<a href="http://www.google.com" target="blank">google</a>
+
 
 tools:  
 goto Qt website, donwload open source verison for compiling
@@ -43,12 +43,14 @@ Qt5Widgets.dll
 
 here is the result, we saw xiaolaba as dummy item in menu area, a sign for our test run, ok, that is all.
 ![alt text](xiaolaba_Qt_build_ok.JPG)
-
-
+  
+  
+  
 issue for Qt and computer screen size  
 14" screen is too much over crowded, no easy and always mis-adjusted.  
 ![alt text](Qt_build_14_inch_screen_over_crowded.JPG)
-
-27" screen is overall much better.  
+  
+  
+23" screen is overall much better.  
 ![alt text](Qt_build_23_inch_screen_ok.JPG)
 
