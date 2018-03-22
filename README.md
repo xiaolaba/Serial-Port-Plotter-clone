@@ -54,3 +54,5 @@ issue for Qt and computer screen size
 23" screen is overall much better.  
 ![alt text](Qt_build_23_inch_screen_ok.JPG)
 
+
+![xiaolaba_Qt_build_ok_add_TextEdit.JPG](xiaolaba_Qt_build_ok_add_TextEdit.JPG)
