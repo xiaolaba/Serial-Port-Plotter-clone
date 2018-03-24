@@ -48,13 +48,38 @@ here is the result, we saw xiaolaba as dummy item in menu area, a sign for our t
   
 issue for Qt and computer screen size  
 14" screen is too much over crowded, no easy and always mis-adjusted.  
-![alt text](Qt_build_14_inch_screen_over_crowded.JPG)
+![Qt_build_14_inch_screen_over_crowded.JPG](Qt_build_14_inch_screen_over_crowded.JPG)
   
   
 23" screen is overall much better.  
-![alt text](Qt_build_23_inch_screen_ok.JPG)  
+![Qt_build_23_inch_screen_ok.JPG](Qt_build_23_inch_screen_ok.JPG)  
+  
+  
   
   
   
 Try to add something useful, perhaps a text output area for serial data or hex dump.
 ![xiaolaba_Qt_build_ok_add_TextEdit.JPG](xiaolaba_Qt_build_ok_add_TextEdit.JPG)
+  
+how to do that:
+edit the ui, mainwindow.ui, include a new object, plainTextEdit
+![xiaolaba_Qt_build_ok_setPlainText_ui.JPG](xiaolaba_Qt_build_ok_setPlainText_ui.JPG
+)  
+  
+
+edit ui-code, mainwindow.cpp, add code for plainTextEdit manipulation, mostly, like VBA programming
+![xiaolaba_Qt_build_ok_setPlainText_code.JPG](xiaolaba_Qt_build_ok_setPlainText_code.JPG)  
+  
+  
+the ui code here,  
+    //xiaolaba 2018-MAR-24, try & add something and show text  
+    //ref: https://stackoverflow.com/questions/30408982/how-to-settext-for-qplaintextedit  
+    ui->plainTextEdit->clear(); // unless you know the editor is empty  
+    ui->plainTextEdit->setPlainText("hello xiaolaba");  
+    QString mytext = "appendPlainText, date 2018-MAR-24";  
+    ui->plainTextEdit->appendPlainText(mytext);  
+    //xiaolaba 2018-MAR-24, try & add something and show text  
+  
+  
+yeah, jo done
+![xiaolaba_Qt_build_ok_setPlainText.JPG](xiaolaba_Qt_build_ok_setPlainText.JPG)  
