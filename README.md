@@ -58,12 +58,12 @@ issue for Qt and computer screen size
   
   
   
-Try to add something useful, perhaps a text output area for serial data or hex dump.
-![xiaolaba_Qt_build_ok_add_TextEdit.JPG](xiaolaba_Qt_build_ok_add_TextEdit.JPG)
+Try to add something useful, perhaps a text output area for serial data or hex dump.  
+![xiaolaba_Qt_build_ok_add_TextEdit.JPG](xiaolaba_Qt_build_ok_add_TextEdit.JPG)  
   
-how to do that:
-edit the ui, mainwindow.ui, include a new object, plainTextEdit
-![xiaolaba_Qt_build_ok_setPlainText_ui.JPG](xiaolaba_Qt_build_ok_setPlainText_ui.JPG
+how to do that:  
+edit the ui, mainwindow.ui, include a new object, plainTextEdit  
+![xiaolaba_Qt_build_ok_setPlainText_ui.JPG](xiaolaba_Qt_build_ok_setPlainText_ui.JPG  
 )  
   
 
