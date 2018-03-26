@@ -63,15 +63,14 @@ void setup() {
 #define phase2 (256/3*2)  // for 240 degree
 
 void loop() {
+  plot_phase_shift ();
+//  plot_0 ();  
+//  plot_amplitude_shift();
+//  plot_0 ();  
+}
 
- 
- // plot 0
- for(int i=0; i<50; i++)
-  {
-  Serial.print("$0 0 0;");
-  delay(10);
-  }
-
+void plot_phase_shift (void) {
+  
  //phase shift plot
  for(int i=0; i<256; i++)
   {
@@ -86,15 +85,20 @@ void loop() {
   Serial.print(";");  // end of data frame
   delay(10);
   }
+}
 
- // plot 0
+
+void plot_0 (void) {
+   // plot 0
  for(int i=0; i<50; i++)
   {
   Serial.print("$0 0 0;");
   delay(10);
   }
-  
 
+}
+
+void plot_amplitude_shift (void) {
  //amplitude shift plot
  for(int i=0; i<256; i++)
   {
@@ -108,8 +112,4 @@ void loop() {
   delay(10);
   }
 
-  
 }
-
-
-
