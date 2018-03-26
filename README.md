@@ -84,8 +84,9 @@ the ui code here,
 yeah, job done
 ![xiaolaba_Qt_build_ok_setPlainText.JPG](xiaolaba_Qt_build_ok_setPlainText.JPG)  
   
-  
-    
+.  
+.    
+.      
 PC host software should be ready, try & dump some data from serial port, uses Uno and dummy data set, 3 lines plot,  
 it works and done,
 Arduino source code, ![xiaolaba_3phasePlotTest.ino](xiaolaba_3phasePlotTest.ino)  
