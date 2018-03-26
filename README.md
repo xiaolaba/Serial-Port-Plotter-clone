@@ -88,7 +88,7 @@ yeah, job done
 .    
 .      
 PC host software should be ready, try & dump some data from serial port, uses Uno and dummy data set, 3 lines plot,  
-it works and done,
+it works and done,  
 Arduino source code, ![xiaolaba_3phasePlotTest.ino](xiaolaba_3phasePlotTest.ino)  
 hex file1, ![xiaolaba_3phasePlotTest.ino.with_bootloader_mega328.hex](xiaolaba_3phasePlotTest.ino.with_bootloader_mega328.hex)  
 hex file2, ![xiaolaba_3phasePlotTest.ino_mega328.hex](xiaolaba_3phasePlotTest.ino_mega328.hex)  
