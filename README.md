@@ -81,5 +81,14 @@ the ui code here,
     //xiaolaba 2018-MAR-24, try & add something and show text  
   
   
-yeah, jo done
+yeah, job done
 ![xiaolaba_Qt_build_ok_setPlainText.JPG](xiaolaba_Qt_build_ok_setPlainText.JPG)  
+  
+  
+    
+PC host software should be ready, try & dump some data from serial port, uses Uno and dummy data set, 3 lines plot,  
+it works and done,
+Arduino source code, ![xiaolaba_3phasePlotTest.ino](xiaolaba_3phasePlotTest.ino)  
+hex file1, ![xiaolaba_3phasePlotTest.ino.with_bootloader_mega328.hex](xiaolaba_3phasePlotTest.ino.with_bootloader_mega328.hex)  
+hex file2, ![xiaolaba_3phasePlotTest.ino_mega328.hex](xiaolaba_3phasePlotTest.ino_mega328.hex)  
+![xiaolaba_3phase_plot_test.JPG](xiaolaba_3phase_plot_test.JPG)
